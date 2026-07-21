@@ -1,0 +1,6 @@
+plateforme,plan_gratuit,prix_entree_mensuel,prix_entree_annuel,abonnes_max_gratuit,emails_illimites_gratuit,domaine_perso_gratuit,commissions_abonnements_payants,publicites_natives,automatisations_gratuit,site_web_inclus,subscribers_max_scale,date_verification,source
+Beehiiv,oui_Launch,43€,517€_an,2500,oui,oui,0%,oui,non,oui,100000,2026-07-21,beehiiv.com/pricing
+Substack,oui,0€,0€,illimite,oui,non,10%,non,non,oui,illimite,2026-07-21,substack.com
+ConvertKit_Kit,oui,15€,180€_an,1000,oui,oui,0%,oui,oui,oui,illimite,2026-07-21,kit.com/pricing
+Mailchimp,oui,13€,130€_an,500,oui_500_contacts,non,0%,non,oui,oui,illimite,2026-07-21,mailchimp.com/pricing
+Ghost,non,9€,108€_an,0,oui,oui,0%,non,oui,oui,illimite,2026-07-21,ghost.org/pricing
